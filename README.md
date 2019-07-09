@@ -1,6 +1,15 @@
 Steno Jig
 =========
 
+Forked from https://github.com/JoshuaGrams/steno-jig
+
+Added 6KRO drills for when you want to practice, but you don't have a full NKRO keyboard available.
+
+
+
+Original Readme
+==============
+
 This is a little browser-based widget for typing drills. I'm using
 it to teach myself stenotype. It's still early in development, but
 you may find it useful and/or fun. I have it set up with only a
