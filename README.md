@@ -5,6 +5,8 @@ Forked from https://github.com/JoshuaGrams/steno-jig
 
 Added 6KRO drills for when you want to practice, but you don't have a full NKRO keyboard available.
 
+visit https://raspofabs.github.io/steno-jig/ for the pages off this repo
+
 
 
 Original Readme
